@@ -8,4 +8,4 @@
   
 ## Proyectos:
 
-  Proyecto de Computación Visual: [Github](https://github.com/luealfonsoru/cv), [GitHubPages](https://luealfonsoru.github.io/cv/)
+  Proyecto de Computación Visual: [Github](https://github.com/luealfonsoru/cv), [GitHubPages](https://luealfonsoru.github.io/cv/).
